@@ -1,3 +1,5 @@
+![Expense Tracker Preview](preview.png)
+
 # Expense Tracker Web App
 
 A simple and clean web-based expense manager built using HTML, CSS, and JavaScript.
@@ -17,6 +19,7 @@ https://roshniannthomas.github.io/expense-tracker/
 - HTML
 - CSS
 - JavaScript (LocalStorage)
+
 
 
 
